@@ -10,4 +10,5 @@ svago.
 <nav class="link-boxes">
 [Presentazione del gruppo](/)
 [Social e contatti](/link.html)
+[Braciata 1 maggio (iscrizioni entro il 26/04)](https://forms.gle/EvmRXapXwt4q3afA6)
 </nav>
