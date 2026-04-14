@@ -6,7 +6,8 @@ description: Il GrUSF è un’associazione indipendente di studenti dell’Unive
 
 Ciao! Siamo un'**associazione indipendente di studenti dell'Università di Pisa**
 che organizza eventi, formativi e di svago, in un clima di amicizia e
-accoglienza.
+accoglienza. Operiamo per offrire agli studenti un ambiente di accoglienza,
+formazione e amicizia conforme ai valori della fede cattolica.
 
 I nostri obiettivi fondamentali sono due:
 
@@ -18,9 +19,9 @@ Se stai cercando i nostri social, li trovi [su questa pagina](link.html).
 
 ## Cosa facciamo?
 
-Abbiamo un appuntamento fisso settimanale, la **[cena del
-sabato](cene-del-sabato.html)**. Cerchiamo qualche volontario tra i
-frequentatori del gruppo per cucinare, e passiamo una serata insieme.
+Abbiamo un appuntamento fisso settimanale, la **Messa universitaria** delle 19
+e la **[cena del sabato](cene-del-sabato.html)**. Cerchiamo qualche volontario
+tra i frequentatori del gruppo per cucinare, e passiamo una serata insieme.
 Normalmente chiediamo un contributo di €3 per la spesa, ma la prima volta
 offriamo noi 😊
 
@@ -42,29 +43,28 @@ la *chiesa universitaria di San Frediano* mette a disposizione degli studenti. I
 locali si trovano lungo la via che collega piazza dei Cavalieri all'Arno, in
 piazza San Frediano 5, campanello *Centro San Frediano*.
 
-Le porte di San Frediano (o *sanfre* per gli amici 🐋) sono sempre aperte, non
+Le porte di San Frediano (o *sanfre* per gli amici) sono sempre aperte, non
 solo durante gli incontri programmati. Puoi sempre venire a studiare, fare una
 partita a biliardino o pranzare in compagnia.
 
 ## Per chi è il GrUSF?
 
-Il GrUSF è un gruppo **aperto a tutti i giovani studenti universitari**. Ci
-teniamo a specificare che:
+Il GrUSF è un gruppo **aperto a tutti i giovani studenti universitari**.
 
-- Tutti sono benvenuti, indipendentemente da orientamento politico, religioso,
-  sessuale; non c'è bisogno di temere di essere respinti per qualsiasi di queste
-  o altre caratteristiche. Veniamo arricchiti nella diversità, e **l'unica cosa
-  che non tolleriamo è l'intolleranza**.
-- Ognuno partecipa al gruppo nella misura in cui desidera. C'è chi vive San
+- **Accoglienza**: Tutti gli studenti sono benvenuti. Pur essendo fondati sui
+  valori della fede cattolica, accogliamo chiunque voglia partecipare con
+  rispetto.
+- **Partecipazione libera**: Ognuno partecipa al gruppo nella misura in cui
+  desidera. C'è chi vive San
   Frediano come una seconda casa, è presente a tutte le iniziative e partecipa
   alla loro organizzazione. Ma c'è anche chi segue un incontro ogni tanto, e
   viene alle cene quando si annoia. Va benissimo! Non ti assilleremo per farti
   tornare 😉
-- Le attività sono organizzate da animatori volontari, studenti universitari che
-  dedicano una parte del proprio tempo ad organizzare gli incontri GrUSF.
-- Gli incontri sono gratuiti, chiediamo contributi monetari solo per dividere
-  spese inevitabili, come gli ingredienti per la cena o l'affitto di un campo
-  per un torneo.
+- **Organizzazione volontaria**: Le attività sono organizzate da animatori
+  volontari, studenti universitari che dedicano una parte del proprio tempo ad
+  organizzare gli incontri GrUSF.
+- **Gratuità**: Gli incontri sono gratuiti, chiediamo contributi monetari solo
+  per dividere spese inevitabili, come gli ingredienti per la cena o l'affitto di un campo per un torneo.
 
 ## GrUSF e spiritualità
 
@@ -75,9 +75,6 @@ universitari della diocesi di Pisa.
 Sui nostri canali proponiamo la partecipazione alle attività organizzate da
 gesuiti e apostoline di San Frediano, nonché le iniziative della diocesi rivolte
 ai giovani.
-
-Se non sei cattolico, non preoccuparti! Il GrUSF non è un gruppo per o di soli
-cattolici 😇
 
 <br>
 
