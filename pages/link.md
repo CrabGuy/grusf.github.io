@@ -21,4 +21,4 @@ Altro:
 - Coro della Chiesa Universitaria di San Frediano: [GrAL](https://www.instagram.com/coro_san_frediano)
 
 Se vuoi contattarci in privato, puoi scrivere a
-[Daniele](https://t.me/daniele_giuffrida) o [Samuele](https://t.me/Samughisu).
+[Samuele](https://t.me/Samughisu).
